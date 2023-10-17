@@ -1,0 +1,9 @@
+#Calculating the simple interest
+
+principal = input("Enter the principal amount : ")
+interest = input("Enter the inerest rate: ")
+Time = input("Enter the Time period for the loan in years: ")
+
+SI = int(principal) * float(interest) / 100 * int(Time)
+
+print("Simple Interest is ", SI)
