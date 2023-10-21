@@ -3,11 +3,11 @@
 #Here, the rate is given in percentage (r%) is written as r/100
 
 SI = 0
-principle =int(input("Please enter principle value:"))
-rate = float(input("Please enter rate value:"))
-time = int(input("Please enter time value:"))
+principle =float(input("Please enter principle amount:"))
+rate = float(input("Please enter rate of interest value:"))
+time = int(input("Please enter time duration:"))
 
 if SI<=0:
-    SI = principle*(rate/100)*time
-    print(SI)
+    SI = (principle*time*rate)/100
+    print('Simple Interest is :',SI)
     print(type(SI))
