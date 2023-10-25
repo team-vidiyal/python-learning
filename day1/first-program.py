@@ -7,8 +7,9 @@
 # 3 ways to represent a str in python
 # using double quotes
 name = "Francis"
-
 name = "Ramya"
+
+age = 25
 
 name1 = 'India143'
 
