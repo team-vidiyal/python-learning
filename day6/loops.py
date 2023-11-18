@@ -14,7 +14,6 @@ for animal in wild_animals:
         print(animal)
 
 
-
 # for number in range(len(wild_animals)):
 #     print(number, wild_animals[number])
 
