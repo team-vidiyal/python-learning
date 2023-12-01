@@ -1,3 +1,4 @@
+
 #####Accept a single character from user. If it's a vowel print it's a vowel, otherwise print consonant.
 #####E.g.  User input:   e   Output: 'e' is a vowel
 
@@ -25,12 +26,17 @@ else:
     else:
         print(f"\t Output : '{user_option}' is consonant")
 
+
 #option3 ------------------------------------------+
-    print(f"Option 3 \n\t User Input : {user_option}")
+    print(f"Option 3 \n\t User Input : {user_option}")%
     if user_option in 'aeiou':
         print(f"\t Output : '{user_option}' is vowel")
     else:
         print(f"\t Output : '{user_option}' is consonant")
+
+
+
+
 
 
 

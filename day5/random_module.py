@@ -13,6 +13,9 @@ countries = ["India", "Srilanka", "USA", "Mexico", "Canada", "Columbia", "Brazil
 random_value = random.randint(0, 6)
 
 print(random_value)
+countries.ra
 
 print(countries[random_value])
+
+
 

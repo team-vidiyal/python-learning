@@ -1,5 +1,5 @@
 # Assignment day -4:
-#
+
 # Calculate discounted amount. Get the amount input from user. (float type)
 #
 # Amount <=1000, then 10% discount.
