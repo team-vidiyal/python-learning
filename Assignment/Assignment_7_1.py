@@ -8,8 +8,7 @@ for sport in sports:
     if len(sport.strip())>0:
         sports_final.append(sport)
         continue
-
-print(sports_final)
+#print(sports_final)
 print(f"Result_After :{sports_final[User_input]}")
 
 
