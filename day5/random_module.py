@@ -1,21 +1,45 @@
 import random
 
-#print(random.randint(100, 500))
+# print(random.randint(100, 500))
+#
+# print(random.random())
 
-# print(random.randrange(100, 500, 10))
-# print(random.randrange(100, 500, 10))# 100, 105, 110, ......500
+#number = int(input("Enter a number: "))
+countries = ["India", "Srilanka", "USA", "Mexico", "Canada", "Columbia", "Brazil", "UK", "Bangladesh"]
+countries.append("Australia")
+#
+# print("Before shuffling...")
+# print(countries)
 
-#print(round(random.random(), 2))
 
+print(random.random())
+# index = random.randint(0, len(countries)-1)
+# print(index)
+# print(countries[index])
 
-countries = ["India", "Srilanka", "USA", "Mexico", "Canada", "Columbia", "Brazil"]
+#print(random.choice(countries))
 
-random_value = random.randint(0, 6)
-
+<<<<<<< HEAD
 print(random_value)
 countries.ra
+=======
+# print(random.choices(countries, k=number))
+#
+# print(random.sample(countries, 3))
 
-print(countries[random_value])
+# print("After shuffling....")
+# random.shuffle(countries)
+#
+# print(countries)
+
+
+
+
+
+# for item in employee_details.values():
+#     print(item)
+>>>>>>> a07865b9f2efc1931937d0a4429c1e597bdf8959
+
 
 
 

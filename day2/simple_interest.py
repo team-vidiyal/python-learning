@@ -1,10 +1,14 @@
-#program to calculate simple Interest
+#program to calculate simple interest
 
-principle = float(input("Enter the principle amount : "))
-rate = float(input("Enter the interest rate : " ))
-duration = float(input("Enter the duration in years for the FD : "))
-
-# Formula for simple interest is SI = PNR/100
-SI = principle * duration * rate / 100
-
-print("Simple Interest is : ", SI)
+print("To Calculate Simple Interest ")
+amt = float(input("Enter the principal amt: "))
+#amt1 = input("Enter the principal amt: ")
+#print(type(amt))
+#print(type(amt1))
+rate = float(input("Enter the rate: "))
+year = float(input("Enter the time/year: "))
+print("Principal amount :", amt)
+print("Rate : ", rate)
+print("year : ", year)
+si = (amt * rate * year)/100
+print("calculated Simple_Interest : ", si)
