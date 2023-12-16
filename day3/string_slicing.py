@@ -27,8 +27,8 @@ greetings = "GoodMorning"
 #  652 X 10^-2
 
 
-# on which object the function can be applied.
-# what function returns.
+# on which object the myfunction.py can be applied.
+# what myfunction.py returns.
 
 #gninroMdooG
 

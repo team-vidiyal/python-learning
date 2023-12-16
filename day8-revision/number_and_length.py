@@ -33,6 +33,7 @@ while counter <=length:
 # for item in range(1, length+1):
 #     output.append(item*number)
 
+
 print(output)
 
 
