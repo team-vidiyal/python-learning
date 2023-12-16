@@ -1,5 +1,5 @@
 
-#To get the input from the user we use input() function.
+#To get the input from the user we use input() myfunction.py.
 
 # my_name = input("Please Enter your name: ")
 #
