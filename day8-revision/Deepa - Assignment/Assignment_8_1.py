@@ -8,8 +8,8 @@ for str in user_input:
    if str in 'AEIOUaeiou':
       total_vowels += 1
       continue
-print(f" Number of Vowels : {total_vowels}")
+print(f" Option 1 - Number of Vowels : {total_vowels}")
 
 #option2
 result=[str for str in user_input if str in 'AEIOUaeiou']
-print(f" Total_vowels : {len(result)}")
+print(f" Option 2 - Total_vowels : {len(result)}")

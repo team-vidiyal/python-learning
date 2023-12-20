@@ -1,4 +1,5 @@
-#Get 2 integer inputs from user(number and length)-Write a program to a return multiples of number until the list length reaches the length.
+#Get 2 integer inputs from user(number and length)-
+#   Write a program to a return multiples of number until the list length reaches the length.
 #Number = 7   Length = 5  Output = [7,14,21,28,35]
 #Note: Add validation, if user inputs anything other than integer, keep prompting user to enter integer only until he gives the correct input
 #option1
