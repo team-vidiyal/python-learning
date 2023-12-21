@@ -1,4 +1,4 @@
-#Assignment 2:  Create a Tuple ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'),
+#assignments 2:  Create a Tuple ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'),
 # you should reverse each string in this tuple and save it in list.
 # Output = [yadonM, 'yadseuT', 'yadsendeW', 'yadsruhT','yadirF','yadrutaS','yadnuS']
 weekday_tuple=('Monday','tuesday','wednesday','thursday','friday','Saturday','Sunday')

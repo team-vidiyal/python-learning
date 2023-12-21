@@ -1,4 +1,4 @@
-# Assignment 6 -----
+# assignments 6 -----
 # get 2 values from user(3digit) check if the values between the 2 entered value is divisible by 7
 
 import sys

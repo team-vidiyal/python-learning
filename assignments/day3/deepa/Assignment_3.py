@@ -1,4 +1,4 @@
-# Assignment day -4:
+# assignments day -4:
 
 # Calculate discounted amount. Get the amount input from user. (float type)
 #
@@ -17,17 +17,10 @@
 # Total Amount is 5000.00 dollars, discount is 1000.00 dollars, net amount is 4000.00 dollars
 
 
-
-
-
-
-
-
-
-#program to calculate the discounted amount
+# program to calculate the discounted amount
 ######option1
 
-Amount= float(input("Enter the Amount: "))
+Amount = float(input("Enter the Amount: "))
 if Amount <= 1000:
     discount_percent = float(10 / 100)
 
@@ -43,4 +36,3 @@ else:
 discount = Amount * discount_percent
 net_amount = Amount - discount
 print(f"Total Amount is {Amount} dollars, discount is {discount} dollars, net amount is {net_amount} dollars")
-
