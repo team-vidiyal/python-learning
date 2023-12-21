@@ -124,7 +124,7 @@
 #     {'name' : 'Deepa', 'state': 'SC', 'department': 'IT', 'age': 32},
 #     {'name': 'Kavitha', 'state': 'MD', 'department': 'IT', 'age': 32},
 #     {'name': 'Francis', 'state': 'MD', 'department': 'IT', 'age': 32},
-#     {'name' : 'Jawahar', 'state': 'Va', 'department': 'IT', 'age': 37}
+#     {'name' : 'jawahar', 'state': 'Va', 'department': 'IT', 'age': 37}
 #
 # }
 
