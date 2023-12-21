@@ -1,4 +1,4 @@
-# Assignment
+# assignments
 import sys
 
 word = input("Enter a word to print : ")
