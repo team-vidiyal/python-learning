@@ -19,6 +19,10 @@ print(random.random())
 
 #print(random.choice(countries))
 
+<<<<<<< HEAD
+print(random_value)
+countries.ra
+=======
 # print(random.choices(countries, k=number))
 #
 # print(random.sample(countries, 3))
@@ -34,5 +38,8 @@ print(random.random())
 
 # for item in employee_details.values():
 #     print(item)
+>>>>>>> a07865b9f2efc1931937d0a4429c1e597bdf8959
+
+
 
 
