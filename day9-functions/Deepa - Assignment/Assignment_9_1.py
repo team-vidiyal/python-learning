@@ -2,7 +2,6 @@
 #Note:  Anagram is a word formed by rearranging the letters of another, such as cinema, formed from iceman.
 #E.g. for anagrams 1. cinema, iceman 2. heart, earth 3. listen, silent
 
-
 word1=input("Enter the first anagram  word : ")
 word2=input("Enter the second anagram word : ")
 #option1
