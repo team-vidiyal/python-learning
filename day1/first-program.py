@@ -3,7 +3,7 @@
 # print("Hello everyone")
 
 # Data types
-# str -> "My name is Jawahar"
+# str -> "My name is jawahar"
 # 3 ways to represent a str in python
 # using double quotes
 name = "Francis"
