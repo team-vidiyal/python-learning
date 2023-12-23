@@ -1,0 +1,15 @@
+##Ass-1
+## You are given an integer list. You need to all add elements in that list except the number at index. 
+## E.g. [1, 2, 3, 4, 5] --> The output should be [14, 13, 12, 11, 10]
+
+def add_all_except_index(nums):
+
+ result = []
+ for i, num in enumerate(nums):
+   total = sum(nums[:i] + nums[i + 1:])
+   result.append(total)
+ return result
+
+nums = [11, 12, 13, 14, 15]
+modified_nums = add_all_except_index(nums)
+print(modified_nums)
