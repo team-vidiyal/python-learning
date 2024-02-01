@@ -1,3 +1,5 @@
+##Write a program that accepts a sentence from user that may contain letters and digits. The output should be a dictionary as shown in the example below.
+
 user_input = input("Enter a Sentence : ")
 print(f"Sentence :{user_input}")
 letters=0
