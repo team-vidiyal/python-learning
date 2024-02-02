@@ -17,6 +17,7 @@ def digi_let():
 digi_let()
 
 
+
 # str = input("enter the string : ")
 # countl = 0
 # countn = 0
