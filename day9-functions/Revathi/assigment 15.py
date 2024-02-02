@@ -7,7 +7,6 @@ list2=[2,3,6]
 list3 = list(set(list1 + list2))
 print(list3)
 sorted_list = sorted(list3)
-#sorted(l) ==
 range_list=list(range(min(list3), max(list3)+1))
 if sorted_list == range_list:
    print("True")
@@ -20,7 +19,6 @@ listB = [35,38]
 listC = list(set(listA + listB))
 print(listC)
 sorted_list = sorted(listC)
-#sorted(l) ==
 range_list=list(range(min(listC), max(listC)+1))
 if sorted_list == range_list:
    print("Ture")
