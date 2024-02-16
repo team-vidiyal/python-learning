@@ -11,7 +11,7 @@ print(list3)
 def check_sequence (list3):
 
  for i in range(1,len(list3)):
-    if(list3[i] - list3[i-1] != 1):
+        if(list3[i] - list3[i-1] != 1):
         return False
         #print("Non consequetive number ")
 
