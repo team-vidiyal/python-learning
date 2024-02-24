@@ -9,10 +9,11 @@ def scope_function():
     print(language)
 
 def scope_function2():
+    department = "IT"
     language = "Java"
     print(language)
 
-department = "IT"
+
 
 print(department)
 
