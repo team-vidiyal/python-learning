@@ -1,0 +1,10 @@
+insert into grocery values (111, 'Apple', 20);
+insert into grocery values (112, 'Apple', 15);
+insert into grocery values (113, 'Orange', 20);
+insert into grocery values (114, 'Apple', 14);
+insert into grocery values (115, 'Kiwi', 20);
+insert into grocery values (116, 'Apple', 20);
+insert into grocery values (117, 'Banana', 10);
+insert into grocery values (118, 'Apple', 20);
+insert into grocery values (119, 'Watermelon', 9);
+insert into grocery values (120, 'Apple', 20);
