@@ -1,4 +1,3 @@
-# sum all the numbers and return the result.
 def sum(*args):
     # print(type(args))
     sum = 0
