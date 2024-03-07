@@ -1,0 +1,6 @@
+patient_id,first_name,last_name,email,gender,date_of_birth,next_appointment_date
+101,Deepa,Prakash,Deepa.prakash@gamil.com,Female,1/1/1990,3/10/2024
+102,Prakash,Dhanabal,Prakash.Dhanabal@gamil.com,Male,1/1/1990,3/25/2024
+103,Shivani,Prakash,Shivani.prakash@gamil.com,Female,1/1/2000,4/10/2024
+104,Nilaani,Prakash,Nilaani.prakash@gamil.com,Female,1/1/1990,3/20/2024
+105,Inba,Prakash,Inba.prakash@gamil.com,Male,1/1/1990,3/15/2024

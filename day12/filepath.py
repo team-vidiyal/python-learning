@@ -17,8 +17,6 @@ try:
 except ArithmeticError:
     print("File not available in given path")
 
-
-
 # def my_function():
 #     course = "python"
 #
